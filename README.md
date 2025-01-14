@@ -1,4 +1,3 @@
-<<<<<<< HEAD
   # Talend ETL Project: Supermarket Sales Data Integration
 
 ## 📜 Project Overview
@@ -106,10 +105,15 @@ Contributions are welcome. Please create an issue or submit a pull request with 
 
 ## 📫 Contact
 For questions, reach out to:
+   ```bash
+  Email: oualidiasmaa65@gmail.com
+  LinkedIn: Asmaa oualidi
 
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
+
+
+
+
+
 =======
 # supermarket-etl-project
 Talend ETL Project: Supermarket Sales Data Integration
->>>>>>> e95858b3cb5708653d28751d70283d6ac5cc5dce
