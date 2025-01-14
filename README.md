@@ -81,7 +81,7 @@ This project demonstrates an ETL process designed to integrate sales data for a 
    ```bash
    git clone https://github.com/asmaaoualidi/supermarket-etl-project.git 
    cd supermarket-etl-project  
-
+   ```
  2. Open Talend Studio:
 
    - Import the workspace located in the workspace/ directory.
@@ -105,7 +105,6 @@ Contributions are welcome. Please create an issue or submit a pull request with 
 
 ## 📫 Contact
 For questions, reach out to:
-   ```bash
   Email: oualidiasmaa65@gmail.com
   LinkedIn: Asmaa oualidi
 
