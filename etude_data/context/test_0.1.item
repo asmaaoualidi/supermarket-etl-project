@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_OEdX4BR6Ee-kbM0-GROlGA" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_OEf0IBR6Ee-kbM0-GROlGA" comment="" name="utilisateur" prompt="utilisateur?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_OEgbMBR6Ee-kbM0-GROlGA" comment="" name="database" prompt="database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="suppermarcher"/>
+    <contextParameter xmi:id="_wGxKMBR7Ee-kbM0-GROlGA" comment="" name="hote" prompt="hote?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_7KogQBR7Ee-kbM0-GROlGA" comment="" name="port" prompt="port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_c-rpkBR8Ee-kbM0-GROlGA" comment="" name="password" prompt="password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:jQPyHc5QqyTRPQLX0C/uMh5w78juSNNv7ilECEEj3CqnXJzr"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_OEgbMRR6Ee-kbM0-GROlGA" confirmationNeeded="false" name="exemple">
+    <contextParameter xmi:id="_OEgbMhR6Ee-kbM0-GROlGA" comment="" name="utilisateur" prompt="utilisateur?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_OEgbMxR6Ee-kbM0-GROlGA" comment="" name="database" prompt="database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="world"/>
+    <contextParameter xmi:id="_wGxKMRR7Ee-kbM0-GROlGA" comment="" name="hote" prompt="hote?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_7KogQRR7Ee-kbM0-GROlGA" comment="" name="port" prompt="port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_c-rpkhR8Ee-kbM0-GROlGA" comment="" name="password" prompt="password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
