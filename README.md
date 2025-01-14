@@ -105,7 +105,9 @@ Contributions are welcome. Please create an issue or submit a pull request with 
 
 ## 📫 Contact
 For questions, reach out to:
+
   Email: oualidiasmaa65@gmail.com
+  
   LinkedIn: Asmaa oualidi
 
 
